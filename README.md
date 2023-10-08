@@ -1,5 +1,2 @@
-# First_repository
-# git workshop
-hello hello
+# Calculator
 
-# anjulijg
